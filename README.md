@@ -2,7 +2,7 @@
 
 SOC investigations written up as incident reports. Each report starts from raw logs or packet captures, shows the queries and filters I used, and ends with findings, MITRE ATT&CK mapping, response actions and recommendations.
 
-**About me:** <Yugam Thakur>, aspiring SOC analyst. <Certified in Cybersecurity  ISC2 CC>
+**About me:** Yugam Thakur, aspiring SOC analyst. Certified in Cybersecurity  ISC2 CC
 
 ## Important: where the data comes from
 
