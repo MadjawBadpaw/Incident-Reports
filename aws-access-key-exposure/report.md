@@ -4,7 +4,7 @@
 |---|---|
 | Report ID | IR-001 |
 | Data source | Splunk BOTS v3 (simulated dataset, fictional company "Frothly") |
-| Analyst | <Yugam Thakur> |
+| Analyst | Yugam Thakur |
 | Date investigated | 2026-10-11 |
 | Incident date (in dataset) | 2018-08-20, 09:16 to 09:36 UTC |
 | Severity | **High** |
